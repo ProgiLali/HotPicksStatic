@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\HotPicksStat2.0\HotPicksStat2.0\bin\Debug\HotPicksStat2.0.exe.config
+C:\Users\user\source\repos\HotPicksStat2.0\HotPicksStat2.0\bin\Debug\HotPicksStat2.0.exe
+C:\Users\user\source\repos\HotPicksStat2.0\HotPicksStat2.0\bin\Debug\HotPicksStat2.0.pdb
+C:\Users\user\source\repos\HotPicksStat2.0\HotPicksStat2.0\obj\Debug\HotPicksStat2.0.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HotPicksStat2.0\HotPicksStat2.0\obj\Debug\HotPicksStat2.0.exe
+C:\Users\user\source\repos\HotPicksStat2.0\HotPicksStat2.0\obj\Debug\HotPicksStat2.0.pdb
